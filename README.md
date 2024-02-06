@@ -3,4 +3,4 @@ This is the main resource repository for the book
 by Nooruddin Abbas Ali
 
 The resources is arranged in the order of the chapters
-All code in this repository is licensed under the Apache 2.0 License
+All code in this repository is licensed under the Apache-2.0 License
