@@ -1,4 +1,9 @@
-# Chapter 6 - Predictive analytics for business problem solving
-## Predictive Analytics for the Modern Enterprise
+# Datasets user in Chapter 6
 
-This folder contains the Datasets for all the code examples discussed in Chapter 6 of the book
+Sourced from: 
+1. Penguins: https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv
+
+
+2. Abalone: https://archive.ics.uci.edu/dataset/1/abalone
+3. CO2 Emissions: https://www.kaggle.com/datasets/thedevastator/global-fossil-co2-emissions-by-country-2002-2022?resource=download 
+
