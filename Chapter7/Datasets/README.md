@@ -1,4 +1,4 @@
-# Chapter 7 - Exploring AWS Cloud provider services for AI/ML
-## Predictive Analytics for the Modern Enterprise
+# Datasets user in Chapter 7 - Exploring AWS Cloud provider services for AI/ML
 
-This folder contains the Datasets for all the code examples discussed in Chapter 7 of the book
+Sourced from: 
+1. Melbourne housing data: https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot
