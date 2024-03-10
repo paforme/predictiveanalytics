@@ -1,4 +1,4 @@
-# Chapter 5 - Tensorflow and Keras for Predictive analytics
+# Chapter 4 - Python and Scikit-learn for Predictive Analytics
 ## Predictive Analytics for the Modern Enterprise
 
-This folder contains the Jupyter notebooks for all the code examples discussed in Chapter 5 of the book
+This folder contains the Jupyter notebooks for all the code examples discussed in Chapter 4 of the book
