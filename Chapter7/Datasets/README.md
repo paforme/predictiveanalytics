@@ -1,4 +1,4 @@
-# Datasets user in Chapter 6
+# Datasets user in Chapter 7
 
 Sourced from: 
 1. Penguins: https://github.com/mwaskom/seaborn-data/blob/master/penguins.csv
